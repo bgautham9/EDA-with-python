@@ -9,19 +9,23 @@ Analyze revenue across product categories
 Understand customer spending patterns
 Study return behavior
 Evaluate impact of discounts and delivery time
+
 📁 Dataset
 ~3000 rows
 Includes orders, customers, products, payments, delivery, returns
+
 🛠️ Tools Used
 Python
 Pandas
 Matplotlib
+
 🔍 Key Analysis
 Revenue by product category
 City-wise customer behavior
 Discount vs order value analysis
 Delivery time vs return rate
 Payment method insights
+
 💡 Key Insights
 Certain categories dominate total revenue
 Delivery delays are strongly linked with higher return rates
